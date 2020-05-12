@@ -1,0 +1,45 @@
+
+body {
+    font-family: 'Balsamiq Sans', cursive;
+    font-weight: 400;
+}
+
+
+h2 {
+    color: #2c3e50;
+}
+
+h3 {
+    color: #3498db;
+    text-transform: uppercase;
+}
+
+
+hr {
+    display: block;
+    margin-top: 3.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.article-border {
+    border: 1.2em solid #bdc3c7;
+    margin: 1.5em auto;
+    width: 55%;
+    /* height: 100%; */
+    
+}
+
+.article {
+    margin: 2.5em;
+    padding: 0.1em;
+}
+
+.first-paragraph {
+    border-left: 0.5em solid #bdc3c7;
+    padding: 0.5em;
+    border-width: 85%;
+}
